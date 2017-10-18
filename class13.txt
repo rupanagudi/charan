@@ -1,0 +1,21 @@
+18.221.240.0
+
+
+
+
+If [ conditional expression1 ]
+then
+	statement1
+	
+
+else
+	if [ conditional expression2 ]
+	then
+		statement3
+
+            else
+       statemnt
+		
+	fi
+fi
+
